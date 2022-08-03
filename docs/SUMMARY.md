@@ -1,15 +1,14 @@
-‌# Summary​
+# Table of contents
 
 ## 1​
 
-* [First page's title](page1/README.md)    
-    * [Some child page](page1/page1-1.md)    
-    * [Some other child page](part1/page1-2.md)
-
-* [Second page's title](page2/README.md)    
-    * [Some child page](page2/page2-1.md)    
-    * [Some other child page](part2/page2-2.md)    
+* [公司](README.md)
+  * [Some child page](1/gong-si/some-child-page.md)
+  * [Some other child page](1/gong-si/some-other-child-page.md)
+* [Second page's title](1/second-pages-title/README.md)
+  * [Some child page](1/second-pages-title/some-child-page.md)
+  * [Some other child page](1/second-pages-title/some-other-child-page.md)
 
 ## 2​
 
-* [Yet another page](another-page.md)
+* [Yet another page](2/yet-another-page.md)
