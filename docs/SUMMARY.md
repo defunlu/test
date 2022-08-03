@@ -2,9 +2,9 @@
 
 ## 1​
 
-* [公司](README.md)
-  * [新進人員](1/gong-si/some-child-page.md)
-  * [差假](1/gong-si/some-other-child-page.md)
+* [公司](1/company.md)
+  * [新進人員](1/company/some-child-page.md)
+  * [差假](1/company/some-other-child-page.md)
 * [專案](1/second-pages-title/README.md)
   * [大園獎學金系統](1/second-pages-title/some-child-page.md)
     * [功能清單\_20220511](1/second-pages-title/some-child-page/gong-neng-qing-dan-20220511.md)
