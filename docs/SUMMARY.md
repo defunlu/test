@@ -2,7 +2,7 @@
 
 ## 1​
 
-* [公司](README.md)
+* [公司](1/company.md)
   * [新進人員](1/company/some-child-page.md)
   * [差假](1/company/some-other-child-page.md)
 * [專案](1/second-pages-title/README.md)
