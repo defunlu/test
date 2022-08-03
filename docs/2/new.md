@@ -1,2 +1,2 @@
-# Yet another page
+一個月內新檔！
 
