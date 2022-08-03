@@ -5,7 +5,7 @@
 * [公司](README.md)
   * [Some child page](1/gong-si/some-child-page.md)
   * [Some other child page](1/gong-si/some-other-child-page.md)
-* [Second page's title](1/second-pages-title/README.md)
+* [專案](1/second-pages-title/README.md)
   * [Some child page](1/second-pages-title/some-child-page.md)
   * [Some other child page](1/second-pages-title/some-other-child-page.md)
 
