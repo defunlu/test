@@ -3,12 +3,12 @@
 ## 1​
 
 * [公司](README.md)
-  * [Some child page](1/gong-si/some-child-page.md)
-  * [Some other child page](1/gong-si/some-other-child-page.md)
+  * [新進人員](1/gong-si/some-child-page.md)
+  * [差假](1/gong-si/some-other-child-page.md)
 * [專案](1/second-pages-title/README.md)
-  * [Some child page](1/second-pages-title/some-child-page.md)
-  * [Some other child page](1/second-pages-title/some-other-child-page.md)
+  * [大園獎學金系統](1/second-pages-title/some-child-page.md)
+  * [大漢酵素](1/second-pages-title/some-other-child-page.md)
 
 ## 2​
 
-* [Yet another page](2/yet-another-page.md)
+* [一個月內新檔](2/yet-another-page.md)
