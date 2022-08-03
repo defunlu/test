@@ -1,6 +1,6 @@
 ‌# Summary​
 
-## Use headings to create page groups like this one​
+## 1​
 
 * [First page's title](page1/README.md)    
     * [Some child page](page1/page1-1.md)    
@@ -10,6 +10,6 @@
     * [Some child page](page2/page2-1.md)    
     * [Some other child page](part2/page2-2.md)    
 
-## A second-page group​
+## 2​
 
 * [Yet another page](another-page.md)
