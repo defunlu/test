@@ -27,6 +27,10 @@
   * [Nidss+Opendata(第一期)](1/project/project_13/project_13.md)
   * [Nidss第二期維護驗收文件](1/project/project_14/project_14.md)
   * [其他技術文件](1/project/project_15/project_15.md)
+* [技術](1/tech/tech.md)
+* [交接](1/trans/trans.md)
+* [個人](1/personal/personal.md)
+* [備存](1/backup/backup.md)
 ## 2​
 
 * [一個月內新檔](2/new.md)
